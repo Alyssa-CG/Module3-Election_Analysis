@@ -21,6 +21,17 @@ A Colorado Board of Elections employee has given the following tasks to complete
  The analysis of the election show that:
  
 * There were 369,711 votes cast in the election.
+
+* The counties that voters in the election represented were:
+  * Jefferson
+  * Denver
+  * Arapahoe
+* The voter breakdown was:
+  * Jefferson made up 10.5% of the votes with 38,855 voters.
+  * Denver made up 82.8% of the votes with 306,055 voters.
+  * Arapahoe made up 6.7% of the votes with 24,801 voters.
+* The largest voter turnout came from Denver county.
+
 * The candidates were:
   * Charles Casper Stockham
   * Diana DeGette
